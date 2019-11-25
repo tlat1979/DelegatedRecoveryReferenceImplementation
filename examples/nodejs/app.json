@@ -1,7 +1,7 @@
 {
   "name": "Delegated Recovery Example App",
   "description": "A Heroku hostable Node.js sample app implementing Delegated Account Recovery account with Facebook",
-  "repository": "https://github.com/facebook/DelegatedRecoveryReferenceImplementation",
+  "repository": "https://github.com/tlat1979/DelegatedRecoveryReferenceImplementation",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["node", "express"],
   "image": "heroku/nodejs"

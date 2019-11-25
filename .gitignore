@@ -5,3 +5,4 @@
 sdk/java-src/target
 examples/java/target
 heroku.properties
+*.pem

@@ -5,11 +5,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/facebook/DelegatedRecoveryReferenceImplementation.git"
+    "url": "git+https://github.com/tlat1979/DelegatedRecoveryReferenceImplementation.git"
   },
   "author": "hillbrad@fb.com",
   "bugs": {
-    "url": "https://github.com/facebook/DelegatedRecoveryReferenceImplementation/issues"
+    "url": "https://github.com/tlat1979/DelegatedRecoveryReferenceImplementation"
   },
   "dependencies": {
     "body-parser": ">= 1.15.0",
@@ -20,5 +20,5 @@
   "engines": {
     "node": ">= 6.10.0"
   },
-  "homepage": "https://github.com/facebook/DelegatedRecoveryReferenceImplementation#readme"
+  "homepage": "https://github.com/tlat1979/DelegatedRecoveryReferenceImplementation#readme"
 }
